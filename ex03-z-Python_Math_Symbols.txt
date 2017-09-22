@@ -1,0 +1,9 @@
++ : addition
+- : subtraction
+/ : divsion
+* : multiplication
+% : modulo operation - finds the remainder after division
+< : less than comparison operation
+> : greater than comparison operation
+<=: less than or equal to comparison operation
+>=: greater than or equal to comparison operation
